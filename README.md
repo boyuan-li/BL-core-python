@@ -1,4 +1,4 @@
-# Core python
+# Core Python
 
 1. IPython magic functions
 
